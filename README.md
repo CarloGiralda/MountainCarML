@@ -43,7 +43,8 @@ Files Structure
 |── src/
 │   |── QMountainCar.py        # Q-Table implementation
 │   |── MountainCar.py         # Neural Network implementation
-│   |── testNN.py              # Neural Network inference
+│   |── testNN.py              # File to test the Neural Network after training
+|── ML_Project.pdf             # PDF containing the explanation of the work
 |── README.md                  # This file
 ````
 ## Algorithm Details
